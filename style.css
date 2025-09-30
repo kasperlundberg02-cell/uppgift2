@@ -1,0 +1,47 @@
+html {
+  font-family: sans-serif;
+  color: lightslategrey;
+}
+
+body {
+  color: azure;
+  background-color: lightslategrey;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+div {
+  border-width: 1px;
+  border-style: solid;
+  border-color: purple;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#billy {
+  color: darkred;
+}
+
+#bob {
+  color: darkgreen;
+}
+
+p.two {
+  font-size: larger;
+}
+
+p.three {
+  font-size: smaller;
+}
+
+#bob a {
+  text-decoration: line-through;
+}
+
+#bob p.two a {
+  text-decoration: underline overline;
+  color: orange;
